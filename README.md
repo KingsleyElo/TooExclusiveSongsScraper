@@ -6,19 +6,12 @@ The code in the notebook is designed to scrape song details from the TooExclusiv
 ## Table of Contents
 
 - [Usage](#usage)
-  - [Clone the Repository](#clone-the-repository)
   - [Install Dependencies](#install-dependencies)
   - [Run the Notebook](#run-the-notebook)
 - [Contribution](#contribution)
 - [Dangers of web scraping](#dangers-of-web-scraping)
 
 ## Usage
-
-### Clone the Repository
-
-"""bash
-git clone https://github.com/KingsleyElo/TooExclusiveScraper.git
-"""
 
 ### Install Dependencies
 pip install -r requirements.txt<br>
